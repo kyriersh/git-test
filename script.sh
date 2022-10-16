@@ -1,1 +1,1 @@
-git --version > output
+sudo apt update && sudo apt upgrade -y
